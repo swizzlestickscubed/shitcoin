@@ -36,7 +36,7 @@ unsigned int nTransactionsUpdated = 0;
 
 map<uint256, CBlockIndex*> mapBlockIndex;
 //uint256 hashGenesisBlock("0x52ca74dd9c7f5fa62f471c81535a1c02c427322b0906a3a284e405a7089e594a");
-uint256 hashGenesisBlock("0x9450d5d9fc3000ed3baf0c822118cc9878383d4f7bbe8a12383f676f9439c0cd");
+uint256 hashGenesisBlock("0x359b341493e56987558e31396a948f5d7bb02f811bae6a28bacd660986fd521c");
 static CBigNum bnProofOfWorkLimit(~uint256(0) >> 20); // Shitcoin: starting difficulty is 1 / 2^12
 CBlockIndex* pindexGenesisBlock = NULL;
 int nBestHeight = -1;
@@ -364,7 +364,7 @@ unsigned int LimitOrphanTxSize(unsigned int nMaxOrphans)
 bool CTxOut::IsDust() const
 {
     // Shitcoin: IsDust() detection disabled, allows any valid dust to be relayed.
-    // The fees imposed on each dust txo is considered sufficient spam deterrant. 
+    // The fees imposed on each dust txo is considered sufficient spam deterrant.
     return false;
 }
 
@@ -2794,7 +2794,7 @@ bool InitBlockIndex() {
         block.nVersion = 1;
         block.nTime    = 1501177033;
         block.nBits    = 0x1e0ffff0;
-        block.nNonce   = 305246;
+        block.nNonce   = 990640;
 
         if (fTestNet)
         {
@@ -2817,7 +2817,7 @@ bool InitBlockIndex() {
             uint256 hashTarget = CBigNum().SetCompact(block.nBits).getuint256();
             uint256 thash;
             char scratchpad[SCRYPT_SCRATCHPAD_SIZE];
- 
+
             loop
             {
 #if defined(USE_SSE2)

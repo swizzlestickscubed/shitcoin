@@ -1,0 +1,9 @@
+Building Shitcoin
+
+See doc/readme-qt.rst for instructions on building Shitcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Shitcoin.
+
+See doc/build-*.txt for instructions on building shitcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Shitcoin.

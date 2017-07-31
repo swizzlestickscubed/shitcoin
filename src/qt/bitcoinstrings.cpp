@@ -188,7 +188,7 @@ QT_TRANSLATE_NOOP("bitcoin-core", "Threshold for disconnecting misbehaving peers
 QT_TRANSLATE_NOOP("bitcoin-core", "To use the %s option"),
 QT_TRANSLATE_NOOP("bitcoin-core", "Transaction amount too small"),
 QT_TRANSLATE_NOOP("bitcoin-core", "Transaction amounts must be positive"),
-QT_TRANSLATE_NOOP("bitcoin-core", "Transaction too large"),
+QT_TRANSLATE_NOOP("bitcoin-core", "Too much shit"),
 QT_TRANSLATE_NOOP("bitcoin-core", "Unable to bind to %s on this computer (bind returned error %d, %s)"),
 QT_TRANSLATE_NOOP("bitcoin-core", "Unknown -socks proxy version requested: %i"),
 QT_TRANSLATE_NOOP("bitcoin-core", "Unknown network specified in -onlynet: '%s'"),

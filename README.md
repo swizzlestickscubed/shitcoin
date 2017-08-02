@@ -1,12 +1,13 @@
 # HOLY SHIT!
 Can it be? Another mediocre clone of Litecoin? Take a good look bitch, for it is! This piece of shit is a shitty^2 clone of Litecoin v0.8.7.5. That's right, it's so shitty that I based it off of a version that was in use 4 years ago. It isn't even the first fucking cryptocurrency to use the name "Shitcoin," at least one of which had the damn decency to try and offer some weird technical gimmick. Not this one! Just a good ol' shitcoin.
 
-## So how does one get this shit?
+## So how does one get this shit, 
 I'll fucking show you:
 
 ### Windows
-I hope you windows asshats are greatful because I slaved over getting the damned cross compiler to work. Oh, and one warning: windows defender is almost certainly going to bitch slap the installer, so just be ready for that.
-WIN DOWNLOAD URL GOES HERE
+I hope you windows asshats are greatful because I slaved over getting the damned cross compiler to work. Oh, and one warning: windows defender is almost certainly going to bitch slap the program, so just be ready for that. The download comes with the source code, qt executable, installer, and daemon. Use the qt executable if you do not want a complete install.
+
+https://www.dropbox.com/s/ozuf84djaod0ege/shitcoinwindows.zip?dl=0
 
 ### Linux
 Fucking compile it yourself; instructions in build_unix.md in the doc folder.
@@ -33,8 +34,9 @@ See the documentation
 As is tradition with cryptocurrency related projects (I use that word loosely), I will now dump BTC and LTC donation addresses in the event that I at least made you laugh and you have magic internet money to spare:
 
 LTC: LT9WyFQFa1XRH5rYDc94ShfeJ2WYMVm6Hp
+
 BTC: 1Jk1ZZLzxqA6XAtsNE41vwWh8LVPA6nRYG
 
 Alternatively, if you wish to insult me, here is my designated shitting address:
 
-SHIT: 
+SHIT: tDvGNj6L7ZvQrr5YH4qzY84v9MrHfTfo3p

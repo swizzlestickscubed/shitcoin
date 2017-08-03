@@ -10,13 +10,13 @@ I hope you windows asshats are greatful because I slaved over getting the damned
 https://www.dropbox.com/s/ozuf84djaod0ege/shitcoinwindows.zip?dl=0
 
 ### Linux
-[Fucking compile it yourself](docs/build_unix.md)
+[Fucking compile it yourself](docs/build-unix.md)
 
 ### OS X 
 You think that I would take the time to make a client for OS X? HA! Well the real reason is that this thing is so shitty that critical dependencies have reached EOL and I'd have to go through a masochistic bullshit quest in order to get a real mac client. If you'd like to try yourself, be my guest. However, if you are using OS X and will still like to be a part of this mistake, I've found that Shitcoin works well with WineBottler (a nice utility to have regardless), which essentially creates a windows environment for a specific program. Just fire it up, point it at the installer and **WOOSH**, you're shitty.
 
 ## How do I use this fucking thing?
-How hard can it be just run the damn program. The IP address of shitnode prime is hardcoded into the software, so a minute or so after starting the software you should be linked ot the shitcoin network. If you're interested in mining, see the documentation. 
+How hard can it be just run the damn program. The IP address of shitnode prime is hardcoded into the software, so a minute or so after starting the software you should be linked ot the shitcoin network. If you're interested in mining, [see the documentation](doc/MINING.md). 
 
 ## How to become a true Shitcoiner
 
@@ -29,6 +29,7 @@ How hard can it be just run the damn program. The IP address of shitnode prime i
 ## Shitcoin fun facts:
 - The current block reward is 10 SHIT with new blocks every ~3 minutes
 - Who cares about maximum coin supply
+- Shitcoin P2P port is 14301
 - At one point, over half of the shitnet's hashing power was, indeed, coming from the guest wifi of a McDonalds in New York
 
 As is tradition with cryptocurrency related projects (I use that word loosely), I will now dump BTC and LTC donation addresses in the event that I at least made you laugh and you have magic internet money to spare:

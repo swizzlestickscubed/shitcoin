@@ -15,8 +15,8 @@ Fucking compile it yourself; instructions in build_unix.md in the doc folder.
 ### OS X 
 You think that I would take the time to make a client for OS X? HA! Well the real reason is that this thing is so shitty that critical dependencies have reached EOL and I'd have to go through a masochistic bullshit quest in order to get a real mac client. If you'd like to try yourself, be my guest. However, if you are using OS X and will still like to be a part of this mistake, I've found that Shitcoin works well with WineBottler (a nice utility to have regardless), which essentially creates a windows environment for a specific program. Just fire it up, point it at the installer and **WOOSH**, you're shitty.
 
-## How does one mine Shitcoin?
-See the documentation
+## How do I use this fucking thing?
+How hard can it be just run the damn program. The IP address of shitnode prime is hardcoded into the software, so a minute or so after starting the software you should be linked ot the shitcoin network. If you're interested in mining, see the documentation. 
 
 ## How to become a true Shitcoiner
 

@@ -1,12 +1,12 @@
 TODO: Finish shitty mining guide
 
-#Mining Shit
+# Mining Shit
 Shitcoin can be mined in the same ways as any other bitcoin based scrypt coin. If you know how to mine Litecoin, than you know how to shit. If you don't know, than hold onto your ass because you're gonna learn today. 
 
-##CPU Mining
+## CPU Mining
 Because of the truly ass shattering hash rates present on the networks of non-shitcoins, CPU mining won't get you very far with them. With Shitcoin, however, CPU mining can yield new blocks just fine. The version of Litecoin that Shitcoin is cloned from actually has a built it CPU miner. It can be used by going to the debug console (accessable via the help tab) and using the command "setgenerate true <threads>", where threads is the amount of CPU cores you'd like to use. If you'd like to use a third party miner however, the most efficient miner is pooler's [cpuminer](https://sourceforge.net/projects/cpuminer/files/). The program is used via the command line. To use it, navigate to the directory where the program is stored in the terminal/command prompt. For a list of options, you can use `miner -h`, where miner is the name of the program. On linux this will probably just be "minerd" whereas on windows it will be "something.exe".
 
-##GPU Mining
+## GPU Mining
 TODO: STUFF
 
 ###Example: Solo mining with cpuminer

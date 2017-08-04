@@ -7,7 +7,7 @@ I'll fucking show you:
 ### Windows
 I hope you windows asshats are grateful because I slaved over getting the damned cross compiler to work. Oh, and one warning: windows defender is almost certainly going to bitch slap the program, so just be ready for that. The download comes with the source code, qt executable, installer, and daemon. Use the qt executable if you do not want a complete install.
 
-https://www.dropbox.com/s/ozuf84djaod0ege/shitcoinwindows.zip?dl=0
+## [Latest Release](https://github.com/swizzlestickscubed/shitcoin/releases/tag/v0.1.3-2)
 
 ### Linux
 [Fucking compile it yourself](doc/build-unix.md)

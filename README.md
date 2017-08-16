@@ -1,3 +1,5 @@
+By popular demand, shitcoin's hardcoded node will be shutting down within three hours of this commit. If you want a copy of the blockchain before that happens, you better go quick!
+
 # HOLY SHIT!
 Can it be? Another mediocre clone of Litecoin? Take a good look bitch, for it is! This piece of shit is a shitty^2 clone of Litecoin v0.8.7.5. That's right, it's so shitty that I based it off of a version that was in use 4 years ago. It isn't even the first fucking cryptocurrency to use the name "Shitcoin," at least one of which had the damn decency to try and offer some weird technical gimmick. Not this one! Just a good ol' shitcoin.
 
